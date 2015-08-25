@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"Hello friends I am comeing");
     NSLog(@"Thanks for you comeing to look at it ");
+    NSLog(@"wonima");
 }
 
 - (void)didReceiveMemoryWarning {
