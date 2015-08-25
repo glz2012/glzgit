@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"Hello friends I am comeing");
     NSLog(@"Thanks for you comeing to look at it ");
+    NSLog(@"wonima");
     NSLog(@"this the last chenge for it");
 }
 
