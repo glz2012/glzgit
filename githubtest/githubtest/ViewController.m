@@ -18,7 +18,7 @@
     [super viewDidLoad];
     NSLog(@"Hello friends I am comeing");
     NSLog(@"Thanks for you comeing to look at it ");
-    NSLog(@"新增加的一个");
+    NSLog(@"this the last chenge for it");
 }
 
 - (void)didReceiveMemoryWarning {
